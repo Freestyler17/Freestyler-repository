@@ -16,11 +16,9 @@ A local *habitation* and a **name**.
 3. list
 
 Here is `some code` in the middle of a sentence.
-
+no tak
 ```
-This is
-a block
-of code
+To jestem ja i huj wam w dupeeeeeeeeeeeeeeeeee
 ```
 
 Here is how you make [a link](https://www.wikipedia.org/).
